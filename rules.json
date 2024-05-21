@@ -1,0 +1,12 @@
+[
+  {
+    "id": "Read the member rules",
+    "title": "MEMBER RULES",
+    "description": "data/file1.txt"
+  },
+  {
+    "id": "Read the staff rules",
+    "title": "STAFF RULES",
+    "description": "data/file2.txt"
+  }
+]
