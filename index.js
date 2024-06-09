@@ -45,11 +45,11 @@ client.on('messageCreate', async message => {
 
       const embed = new MessageEmbed()
         .setColor('#4959a0')
-        .setThumbnail('https://cdn.discordapp.com/attachments/1212136370496344074/1242195193281642588/LU2NO52.png?ex=664cf3ec&is=664ba26c&hm=341f273f30918f896ce5762b1f538508aeccb3ba936944156f0d17316eff42d6&')
+        .setThumbnail('https://cdn.discordapp.com/attachments/1212136370496344074/1249450814586622053/NxA8XXt.png?ex=6667593f&is=666607bf&hm=e62191734a730fe1ec633f34cd5d31c96ceef1e4df8fd03dfc21f9ee0e643de6&')
         .setTitle('قوانين السيرفر')
         .setDescription(`**الرجاء اختيار احد القوانين لقرائته من قائمة الاختيارات تحت
             سيتم معاقبة من يخالف القوانين على حسب القانون الخالف.**`)
-        .setImage('https://cdn.discordapp.com/attachments/1212136370496344074/1242197574794874961/01foYxE.png?ex=664cf624&is=664ba4a4&hm=e41a0c7ca464223054f47f43438c50070cb5f18e13799e05d1d7a0bcbb169243&')
+        .setImage('https://share.creavite.co/66660713db2d31826fb8f0e0.gif')
         .setFooter({ text: 'Rules Bot' })
         .setTimestamp();
 
